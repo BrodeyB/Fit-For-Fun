@@ -23,6 +23,14 @@
   -webkit-text-stroke: 1px darkorange;
 }
 
+.thankyou h2{
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Shojumaru', cursive;
+  -webkit-text-stroke: 1px darkorange;
+  color: white;
+}
+
 .info, .thankyou, .classes {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("info.jpg");
   background-position: top;
